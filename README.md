@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyberholic</h1>
 <h3 align="center">A passionate Web Wpplication Pentester from India</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacking-gif-20202201")
-
+<img src="M:\hacking.gif" style="width:200px; height:300px; float:right;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberholic96&label=Profile%20views&color=0e75b6&style=flat" alt="cyberholic96" /> </p>
 
 - 🔭 I’m currently working on **freelancing**
